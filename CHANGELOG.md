@@ -4,6 +4,18 @@ All notable changes to this project will be documented in this file following th
 This project adheres to [Semantic Versioning](http://semver.org/).
 
 ----
+## 0.1.5 (2018-04-20)
+
+##### Added
+
+- Framerate and resolution
+
+##### Updated
+
+- Swift 4.1
+
+<br/>
+
 ## 0.1.4 (2016-11-21)
 
 ##### Fixed
